@@ -5,10 +5,11 @@ while(c<5){
     c++
 }
 
-
+var c =0
 do{
-    var c = console.log('voce deseja continuar o programa?(0 - sair)(1-continuar)')
-}while(c != 0)
+    console.log('oi')
+    c++
+}while(c<5)
 
 
 
